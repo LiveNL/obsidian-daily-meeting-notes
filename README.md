@@ -4,7 +4,7 @@ NOTE. This repository does NOT contain an [Obsidian](https://obsidian.md/) plugi
 The repository contains the files, to set up a way of working, to create meeting notes in an accessible and organised way.
 This setup is also described in a more extensive way [here]().
 
-<img width="564" alt="Screenshot 2023-09-24 at 15 42 12" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/7a5b6f76-dac5-459e-a4f0-4d5a0fa00d15">
+<img width="564" alt="Daily note with listed meeting notes" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/1898d793-da15-42d7-9f2e-5bd13e8e6244">
 
 ###### Required/used plugins
 
@@ -48,7 +48,8 @@ So, let's say you know you will have a meeting "X" on date Y, in week Z, and wan
 That's it: now there's a note with name: "X-Y", added to the list of notes for day X and week Z.
 
 ###### Screenshots
-<img width="685" alt="Screenshot 2023-09-24 at 17 01 48" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/826d827b-39c2-44c7-81c7-d07cb231ff94">
-<img width="753" alt="Screenshot 2023-09-24 at 15 43 00" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/d59d4e10-6b2f-4c91-b277-f425e45a5210">
-<img width="468" alt="Screenshot 2023-09-24 at 15 40 23" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/a3b6981c-7761-4377-a88c-15013a92ceca">
-<img width="694" alt="Screenshot 2023-09-23 at 21 50 31" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/b25d4711-dd6f-419b-a0fe-3f54661e8f81">
+<img width="753" alt="QuickAdd opts" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/21f71905-35be-47db-8f9f-8c3b067e6ce9">
+<img width="685" alt="Prompt to enter note name" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/8f638639-4565-48df-9eee-0316a93ee2ec">
+<img width="694" alt="Macro settings" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/b67ae9f0-1f4b-40bf-a749-2c184c89a3d6">
+
+
