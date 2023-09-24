@@ -52,8 +52,16 @@ So, let's say you know you will have a meeting "X" on date Y, in week Z, and wan
 That's it: now there's a note with name: "X-Y", added to the list of notes for day X and week Z.
 
 ###### Screenshots
-<img width="753" alt="QuickAdd opts" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/21f71905-35be-47db-8f9f-8c3b067e6ce9">
 <img width="685" alt="Prompt to enter note name" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/8f638639-4565-48df-9eee-0316a93ee2ec">
+
+Prompt to enter note name
+
+<img width="753" alt="QuickAdd opts" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/21f71905-35be-47db-8f9f-8c3b067e6ce9">
+
+QuickAdd opts
+
 <img width="694" alt="Macro settings" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/b67ae9f0-1f4b-40bf-a749-2c184c89a3d6">
+
+Macro settings
 
 
