@@ -7,8 +7,8 @@ This setup is also described in a more extensive way [here](https://medium.com/@
 <img width="564" alt="Daily note with listed meeting notes" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/1898d793-da15-42d7-9f2e-5bd13e8e6244">
 
 
-**Part of the result: Daily note with listed meeting notes for the day.
-**
+Part of the result: Daily note with listed meeting notes for the day.
+
 
 ###### Required/used plugins
 
