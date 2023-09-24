@@ -2,7 +2,7 @@
 
 NOTE. This repository does NOT contain an [Obsidian](https://obsidian.md/) plugin.
 The repository contains the files, to set up a way of working, to create meeting notes in an accessible and organised way.
-This setup is also described in a more extensive way [here](https://jordiwippert.nl/code/hobby/2023/09/24/obsidian-daily-meeting-notes.html) and [here](https://medium.com/@jordiwippert/my-obsidian-setup-for-daily-and-meeting-notes-a254beebecc7).
+This setup is also described in a more extensive way [here](https://jordiwippert.nl/code/hobby/2023/09/24/obsidian-daily-meeting-notes.html).
 
 <img width="564" alt="Daily note with listed meeting notes" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/1898d793-da15-42d7-9f2e-5bd13e8e6244">
 
