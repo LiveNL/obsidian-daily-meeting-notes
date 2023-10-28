@@ -30,6 +30,7 @@ Part of the result: Daily note with listed meeting notes for the day.
 - Install Calendar + Periodic notes, and configure the daily + weekly template (from this repo)
 - Install QuickAdd
 - Add 'Choice' with type 'Template' (requires to set a name)
+- Enable the ⚡️-icon in the QuickAdd overview.
 - Configure the template:
 - Enable "Set file name format"
 - Set it to: `{{MACRO:getFileName::start}}-{{NAME}}`
