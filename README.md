@@ -28,19 +28,19 @@ Part of the result: Daily note with listed meeting notes for the day.
 ###### The setup
 
 - Install Calendar + Periodic notes, and configure the daily + weekly template (from this repo)
-- Install QuickAdd
+- Install QuickAdd (2.11 or newer, it needs the `{{FILENAMECURRENT}}` format variable)
 - Add 'Choice' with type 'Template' (requires to set a name)
 - Enable the ⚡️-icon in the QuickAdd overview.
 - Configure the template:
 - Enable "Set file name format"
-- Set it to: `{{MACRO:getFileName::start}}-{{NAME}}`
+- Set it to: `{{FILENAMECURRENT}}-{{NAME}}`
 - Enable "Create in folder", and set it to the daily note folder
 - Enable "Open", "New split" and "Focus new pane" (to your preference)
-- Click "Manage macros", and enter `getFileName` as name.
-- Next to "Obsidian command", select "Copy file path"
-- Copy `macro.js` to the root of your vault (from this repo)
-- Select/enter it next to "User script" (in QuickAdd)
 - Set a Hotkey (like: CMD+Shift+N) in Obsidian settings to the new meeting command (or use it via a pinned command, in command palette)
+
+`{{FILENAMECURRENT}}` is the name of the note that is open when you launch the command, so the date of the daily note. `{{NAME}}` is the title you enter in the prompt.
+
+Earlier versions of this setup used a QuickAdd macro (Obsidian command "Copy file path" followed by a user script `macro.js`) to read the daily note name through the clipboard. That overwrote your clipboard on every new note. `{{FILENAMECURRENT}}` gives the same value without the macro, the script and the clipboard. If you still have the `getFileName` macro, you can delete it.
 
 ###### The result
 
@@ -59,10 +59,6 @@ Prompt to enter note name
 
 <img width="753" alt="QuickAdd opts" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/21f71905-35be-47db-8f9f-8c3b067e6ce9">
 
-QuickAdd opts
-
-<img width="694" alt="Macro settings" src="https://github.com/LiveNL/obsidian-daily-meeting-notes/assets/5443727/b67ae9f0-1f4b-40bf-a749-2c184c89a3d6">
-
-Macro settings
+QuickAdd opts (older screenshot: the file name format shown is the old macro variant, use `{{FILENAMECURRENT}}-{{NAME}}`)
 
 
